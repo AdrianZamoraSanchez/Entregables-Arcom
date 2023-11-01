@@ -18,8 +18,8 @@
 #include <time.h>
 #include <device_launch_parameters.h>
 
-#define FILAS 5
-#define COLUMNAS 15
+#define FILAS 7
+#define COLUMNAS 25
 
 // Función que muestra los datos del dispositivo
 void propiedades_Device(int deviceID)
