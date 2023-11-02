@@ -1,6 +1,6 @@
 ﻿/*
 * ARQUITECTURA DE COMPUTADORES
-* Hecho por: Adrián Zamora Sánchez
+* Hecho por: Adrián Zamora Sánchez y Adrián Alcalde Alzaga
 * Ejercicio: Entregable 1 de CUDA
 * Descripción: Generamos una matriz de tamaño F*C con valores aleatorios
 * entre 1 y 9 iguales en cada fila en el host, pasamos esa matriz al device y lanzamos
