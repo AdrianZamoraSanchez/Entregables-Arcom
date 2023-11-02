@@ -6,7 +6,7 @@
 * entre 1 y 9 iguales en cada fila en el host, pasamos esa matriz al device y lanzamos
 * un kernel que cambia el orden de las filas, desplazandolas hacia abajo un fila. Además
 * se implementa un evento de temporización que indica el tiempo empleado para esta tarea
-* realizada en el device.
+* realizada en el device. 
 */
 
 // INCLUDES
